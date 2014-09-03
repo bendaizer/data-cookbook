@@ -1,7 +1,7 @@
-Data Processing
-Statistics
-Machine Learning
-Network Analysis
-Text Mining
-Tools
-Others
+Data Processing  
+Statistics  
+Machine Learning  
+Network Analysis  
+Text Mining  
+Tools  
+Others  
